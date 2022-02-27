@@ -3,6 +3,10 @@ InnovaPatikaSpringBootcampBitirmeProjesi
 
 [Front-end Kısmı için tıklayınız](https://github.com/ozanaydogan/frontendInnovaPatikaSpringBootcampBitirmeProjesi/tree/main/react-frontend)
 
+## Proje hakkında detaylı bilgiler için pdf dosyasını inceleyebilirsiniz
+
+
+
 # Projenin amacı
 
 Kullanıcıdan alınan Kullanıcı adı, soyadı, email adresi, maaş bilgisi, kimlik numarası, telefon numarası bilgileriyle, sisteme kayıt olabilir, kaydını silebilir, kaydını güncelleyebilir ve Kredi limit bilgisini sorgulayabilir.
