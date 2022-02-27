@@ -14,18 +14,18 @@ MySql
 
 # Api istekleri için
 
-GET /api/v1/users/citizenshipNumber/{citizenshipNumber} kimlik numarasına göre veritabanından kullanıcıyı getirme
-GET /api/v1/users/citizenshipNumber/creditscore/{citizenshipNumber} kimlik numarasına göre kredli limiti sorgulama
+GET /api/v1/users/citizenshipNumber/{citizenshipNumber} kimlik numarasına göre veritabanından kullanıcıyı getirme <br/>
+GET /api/v1/users/citizenshipNumber/creditscore/{citizenshipNumber} kimlik numarasına göre kredli limiti sorgulama <br/>
 
-GET /api/v1/users tüm kullanıcıları listelemek için
-GET /api/v1/users/{id} id'ye göre kullanıcıyı getirmek için
-POST /api/v1/users gelen verinin veritabanına kaydetmek için
-PUT /api/v1/users/{id} id'ye göre kullanıcıyı update etmek için
-DELETE /api/v1/users/{id} id'ye göre kullanıcıyı silmek için
+GET /api/v1/users tüm kullanıcıları listelemek için <br/>
+GET /api/v1/users/{id} id'ye göre kullanıcıyı getirmek için <br/>
+POST /api/v1/users gelen verinin veritabanına kaydetmek için <br/>
+PUT /api/v1/users/{id} id'ye göre kullanıcıyı update etmek için <br/> 
+DELETE /api/v1/users/{id} id'ye göre kullanıcıyı silmek için <br/>
 
 #Swagger
-
-çalıştırdığınız porta göre değişebilir.
+ 
+çalıştırdığınız porta göre değişebilir. <br/>
 http://localhost:8081/swagger-ui/index.html#/
 
 
