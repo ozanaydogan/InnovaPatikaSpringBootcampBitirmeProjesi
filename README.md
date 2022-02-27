@@ -8,9 +8,9 @@ InnovaPatikaSpringBootcampBitirmeProjesi
 Kullanıcıdan alınan Kullanıcı adı, soyadı, email adresi, maaş bilgisi, kimlik numarası, telefon numarası bilgileriyle, sisteme kayıt olabilir, kaydını silebilir, kaydını güncelleyebilir ve Kredi limit bilgisini sorgulayabilir.
 
 # Kullanılan teknolojiler
-Spring
-ReactJS
-MySql
+Spring <br/>
+ReactJS <br/>
+MySql <br/>
 
 # Api istekleri için
 
