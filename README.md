@@ -32,6 +32,7 @@ http://localhost:8081/swagger-ui/index.html#/ <br/>
 
 # Projenin Yapısı
 
+![gorsel](https://user-images.githubusercontent.com/49997690/155903108-868d22ba-aa9d-407b-a422-e19661de9244.png)
 
 
 
