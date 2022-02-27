@@ -23,9 +23,9 @@ POST /api/v1/users gelen verinin veritabanına kaydetmek için <br/>
 PUT /api/v1/users/{id} id'ye göre kullanıcıyı update etmek için <br/> 
 DELETE /api/v1/users/{id} id'ye göre kullanıcıyı silmek için <br/>
 
-#Swagger
+# Swagger
  
 çalıştırdığınız porta göre değişebilir. <br/>
-http://localhost:8081/swagger-ui/index.html#/
+http://localhost:8081/swagger-ui/index.html#/ <br/>
 
 
