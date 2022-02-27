@@ -28,4 +28,10 @@ DELETE /api/v1/users/{id} id'ye göre kullanıcıyı silmek için <br/>
 çalıştırdığınız porta göre değişebilir. <br/>
 http://localhost:8081/swagger-ui/index.html#/ <br/>
 
+![swagger](https://user-images.githubusercontent.com/49997690/155903067-4e8f9324-a7a0-4bdb-bed5-ae3a9724f9f1.PNG)
+
+# Projenin Yapısı
+
+
+
 
