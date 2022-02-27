@@ -29,10 +29,16 @@ DELETE /api/v1/users/{id} id'ye göre kullanıcıyı silmek için <br/>
 http://localhost:8081/swagger-ui/index.html#/ <br/>
 
 ![swagger](https://user-images.githubusercontent.com/49997690/155903067-4e8f9324-a7a0-4bdb-bed5-ae3a9724f9f1.PNG)
-
+<br/>
 # Projenin Yapısı
 
 ![gorsel](https://user-images.githubusercontent.com/49997690/155903108-868d22ba-aa9d-407b-a422-e19661de9244.png)
+<br/>
+# MySql
+
+localhost:3306 <br/>
+tablo adı : user_management_system <br/>
+
 
 
 
