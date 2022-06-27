@@ -3,8 +3,7 @@ InnovaPatikaSpringBootcampBitirmeProjesi
 
 [Front-end Kısmı için tıklayınız](https://github.com/ozanaydogan/frontendInnovaPatikaSpringBootcampBitirmeProjesi/tree/main/react-frontend)
 
-```diff
-!## Proje hakkında detaylı bilgiler için pdf dosyasını inceleyebilirsiniz@@
+## Proje hakkında detaylı bilgiler için pdf dosyasını inceleyebilirsiniz
 
 [Proje hakkında detaylı bilgilendirme için PDF dosyası](https://github.com/ozanaydogan/InnovaPatikaSpringBootcampBitirmeProjesi/blob/main/%C4%B0nnova-Patika%20Spring%20Bootcamp%20Bitirme%20Projesi%20Kimlik%20numaras%C4%B1yla%20kredi%20sorgulama.pdf
 )
