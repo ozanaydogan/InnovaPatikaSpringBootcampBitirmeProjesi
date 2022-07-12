@@ -1,7 +1,7 @@
 # InnovaPatikaSpringBootcampBitirmeProjesi
 InnovaPatikaSpringBootcampBitirmeProjesi
 
-[Front-end Kısmı için tıklayınız](https://github.com/ozanaydogan/frontendInnovaPatikaSpringBootcampBitirmeProjesi/tree/main/react-frontend)
+[Front-end Kısmı için tıklayınız](https://github.com/ozanaydogan/frontendInnovaPatikaSpringBootcampBitirmeProjesi)
 
 ## Proje hakkında detaylı bilgiler için pdf dosyasını inceleyebilirsiniz
 
